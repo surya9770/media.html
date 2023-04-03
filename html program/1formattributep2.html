@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h2>The Autocomplete Attribute</h2>
+        The autocomplete attribute specifies whether a form should have autocomplete on or off.
+      
+      When autocomplete is on, the browser automatically complete values based on values that the user has entered before.
+      <form action="/action_page.php" target="_blank" autocomplete="on">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+        <input type="submit" value="Submit">
+      </form> 
+      </div>
+<h1>The form novalidate attribute</h1>
+
+<p>The novalidate attribute indicates that the form input is not to be validated on submit:</p>
+
+<form action="/action_page.php" novalidate>
+  <label for="email">Enter your email:</label>
+  <input type="email" id="email" name="email"><br><br>
+  <input type="submit">
+</form>
+
+<p><strong>Note:</strong> The novalidate attribute of the form tag is not supported in Safari 10 (or earlier).</p>
+
+</body>
+</html>
+

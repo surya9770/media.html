@@ -1,0 +1,60 @@
+#include<stdio.h>
+
+void main()
+{
+int a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,SUM;
+printf ("Enter 1st Number:");
+scanf ("%d",&a);
+printf ("Enter 2nd Number:");
+scanf ("%d",&b);
+printf ("Enter 3rd Number:");
+scanf ("%d",&c);
+printf ("Enter 4th Number:");
+scanf ("%d",&d);
+printf ("Enter 5th Number:");
+scanf ("%d",&e);
+printf ("Enter 6th Number:");
+scanf ("%d",&f);
+printf ("Enter 7th Number:");
+scanf ("%d",&g);
+printf ("Enter 8th Number:");
+scanf ("%d",&h);
+printf ("Enter 9th Number:");
+scanf ("%d",&i);
+printf ("Enter 10th Number:");
+scanf ("%d",&j);
+printf ("Enter 11st Number:");
+scanf ("%d",&k);
+printf ("Enter 12nd Number:");
+scanf ("%d",&l);
+printf ("Enter 13rd Number:");
+scanf ("%d",&m);
+printf ("Enter 14th Number:");
+scanf ("%d",&n);
+printf ("Enter 15th Number:");
+scanf ("%d",&o);
+printf ("Enter 16th Number:");
+scanf ("%d",&p);
+printf ("Enter 17th Number:");
+scanf ("%d",&q);
+printf ("Enter 18th Number:");
+scanf ("%d",&r);
+printf ("Enter 19th Number:");
+scanf ("%d",&s);
+printf ("Enter 20th Number:");
+scanf ("%d",&t);
+printf ("Enter 21st Number:");
+scanf ("%d",&u);
+printf ("Enter 22nd Number:");
+scanf ("%d",&v);
+printf ("Enter 23rd Number:");
+scanf ("%d",&w);
+printf ("Enter 24th Number:");
+scanf ("%d",&x);
+printf ("Enter 25th Number:");
+scanf ("%d",&y);
+printf ("Enter 26th Number:");
+scanf ("%d",&z);
+SUM=a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+v+w+x+y+z;
+printf ("SUM of a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z=%d",SUM);
+}

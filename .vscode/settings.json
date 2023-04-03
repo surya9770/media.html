@@ -1,0 +1,16 @@
+{
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.wait": 20,
+    "liveServer.settings.CustomBrowser": "firefox:PrivateMode",
+    "liveserver.settings.port":0,
+    "liveServer.settings.useBrowserPreview": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "FIRST.C": "cpp",
+        "stdio.h": "c"
+    },
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.useWebExt": true
+}
